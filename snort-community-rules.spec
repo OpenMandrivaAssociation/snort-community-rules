@@ -7,7 +7,6 @@ Group:		Networking/Other
 URL:		http://www.snort.org/
 Source0:	http://www.snort.org/pub-bin/downloads.cgi/Download/comm_rules/Community-Rules-%{version}.tar.bz2
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 The Community Rulesets contain rules submitted by members of the
