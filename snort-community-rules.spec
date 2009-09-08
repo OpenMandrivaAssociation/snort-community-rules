@@ -1,7 +1,7 @@
 Summary:	The Community Rulesets for Snort
 Name:		snort-community-rules
 Version:	2.4
-Release:	%mkrel 5
+Release:	%mkrel 6
 License:	GPL
 Group:		Networking/Other
 URL:		http://www.snort.org/
