@@ -38,3 +38,35 @@ available to all open source Snort users.
 %attr(0644,root,root) %config(noreplace) %{_sysconfdir}/snort/rules/*.rules
 
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 2.4-6mdv2010.0
++ Revision: 433982
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tvignaud@mandriva.com> 2.4-5mdv2009.0
++ Revision: 260873
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tvignaud@mandriva.com> 2.4-4mdv2009.0
++ Revision: 252690
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 2.4-2mdv2008.1
++ Revision: 140829
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Sun Oct 22 2006 David Walluck <walluck@mandriva.org> 2.4-2mdv2007.0
++ Revision: 71647
++ Status: not released
+- rebuild
+- Import snort-community-rules
+
+* Sun Oct 30 2005 Oden Eriksson <oeriksson@mandriva.com> 2.4-1mdk
+- initial Mandriva package
+
