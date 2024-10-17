@@ -4,7 +4,7 @@ Version:	2.4
 Release:	7
 License:	GPL
 Group:		Networking/Other
-URL:		http://www.snort.org/
+URL:		https://www.snort.org/
 Source0:	http://www.snort.org/pub-bin/downloads.cgi/Download/comm_rules/Community-Rules-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
